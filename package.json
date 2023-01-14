@@ -1,0 +1,22 @@
+{
+  "name": "@euriklis/basic-tests",
+  "version": "1.0.0",
+  "description": "A collection of tests needed for some kind of libraries with algorithm implementation orientation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VelislavKarastoychev/euriklis-basic-tests.git"
+  },
+  "keywords": [
+    "tests"
+  ],
+  "author": "Velislav S. Karastoychev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VelislavKarastoychev/euriklis-basic-tests/issues"
+  },
+  "homepage": "https://github.com/VelislavKarastoychev/euriklis-basic-tests#readme"
+}
