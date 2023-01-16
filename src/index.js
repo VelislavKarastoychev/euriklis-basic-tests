@@ -5,6 +5,8 @@ export { default as IsArrayOfPositiveIntegers } from './IsArrayOfPositiveInteger
 export { default as IsArrayWithLength } from './IsArrayWithLength.js';
 export { default as IsArrayWithLengthBiggerThan } from './IsArrayWithLengthBiggerThan.js';
 export { default as IsArrayWithLengthBiggerOrEqualTo } from './IsArrayWithLengthBiggerOrEqualTo.js';
+export { default as IsArrayWithLengthInClosedRange } from './IsArrayWithLengthInClosedRange.js';
+export { default as IsArrayWithLengthInRange } from './IsArrayWithLengthInRange.js';
 export { default as IsArrayWithLengthLesserThan } from './IsArrayWithLengthLesserThan.js';
 export { default as IsArrayWithLengthLesserOrEqualTo } from './IsArrayWithLengthLesserOrEqualsTo.js';
 export { default as IsBoolean } from './IsBoolean.js';
@@ -24,6 +26,8 @@ export { default as IsString } from './IsString.js';
 export { default as IsStringWithLength } from './IsStringWithLength.js';
 export { default as IsStringWithLengthBiggerThan } from './IsStringWithLengthBiggerThan.js';
 export { default as IsStringWithLengthBiggerOrEqualTo } from './IsStringWithLengthBiggerOrEqualTo.js';
+export { default as IsStringWithLengthInClosedRange } from './IsStringWithLengthInClosedRange.js';
+export { default as IsStringWithLengthInRange } from './IsStringWithLengthInRange.js';
 export { default as IsStringWithLengthLesserThan } from './IsStringWithLengthLesserThan.js';
 export { default as IsStringWithLengthLesserOrEqualTo } from './IsStringWithLengthLesserOrEqualsTo.js';
 export { default as IsStringArray } from './IsStringArray.js';
