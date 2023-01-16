@@ -22,5 +22,8 @@
   "homepage": "https://github.com/VelislavKarastoychev/euriklis-basic-tests#readme",
   "devDependencies": {
     "eslint": "^8.31.0"
+  },
+  "dependencies": {
+    "@euriklis/validator": "^3.0.0"
   }
 }
