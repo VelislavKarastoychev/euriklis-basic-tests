@@ -2,6 +2,7 @@
 export { default as IsArray } from './IsArray.js';
 export { default as IsArrayOfNegativeIntegers } from './IsArrayOfNegativeIntegers.js';
 export { default as IsArrayOfPositiveIntegers } from './IsArrayOfPositiveIntegers.js';
+export { default as IsArrayOfPositiveNumbers } from './IsArrayOfPositiveNumbers.js';
 export { default as IsArrayWithLength } from './IsArrayWithLength.js';
 export { default as IsArrayWithLengthBiggerThan } from './IsArrayWithLengthBiggerThan.js';
 export { default as IsArrayWithLengthBiggerOrEqualTo } from './IsArrayWithLengthBiggerOrEqualTo.js';
