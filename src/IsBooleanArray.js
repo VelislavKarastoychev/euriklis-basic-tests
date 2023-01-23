@@ -1,4 +1,11 @@
 'use strict';
 import validator from "@euriklis/validator";
-const IsBooleanArray = item => new validator(item).is_array_and_for_every(element => element.isBoolean).answer;
+/**
+ * 
+ * @param {Array.<boolean>} item 
+ * @description this function tests if the underlined
+ * argument is an array of boolean types.
+ * @returns {boolean}
+ */
+const IsBooleanArray = item => new validator(item).isBooleanArray.answer;
 export default IsBooleanArray;
