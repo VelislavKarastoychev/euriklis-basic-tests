@@ -3,7 +3,6 @@
  * @description This file is a collection of
  * all the functionalities of the package.
  */
-import validator from '@euriklis/validator';
 export { default as IsArray } from './IsArray.js';
 export { default as IsArrayOfArraysWithEqualSize } from './IsArrayOfArraysWithEqualSize.js';
 export { default as IsArrayOfNegativeIntegers } from './IsArrayOfNegativeIntegers.js';
