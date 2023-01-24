@@ -13,6 +13,8 @@ export { default as IsArrayOfPositiveIntegers } from './IsArrayOfPositiveInteger
 export { default as IsArrayOfPositiveNumbers } from './IsArrayOfPositiveNumbers.js';
 export { default as IsArrayOfStringArrays } from './IsArrayOfStringArrays.js';
 export { default as IsArrayOfStringArraysWithEqualSize } from './IsArrayOfStringArraysWithEqualSize.js';
+export { default as IsArrayOfStringOrNumberElements } from './IsArrayOfStringOrNumberElements.js';
+export { default as IsArrayOfStringOrObjectElements } from './IsArrayOfStringOrObjectElements.js';
 export { default as IsArrayWithLength } from './IsArrayWithLength.js';
 export { default as IsArrayWithLengthBiggerThan } from './IsArrayWithLengthBiggerThan.js';
 export { default as IsArrayWithLengthBiggerOrEqualTo } from './IsArrayWithLengthBiggerOrEqualTo.js';
@@ -35,6 +37,7 @@ export { default as IsObject } from './IsObject.js';
 export { default as IsObjectArray } from './IsObjectArray.js';
 export { default as IsPositiveInteger } from './IsPositiveInteger.js';
 export { default as IsString } from './IsString.js';
+export { default as IsStringOrNumberArray } from './IsStringOrNumberArray.js';
 export { default as IsStringWithLength } from './IsStringWithLength.js';
 export { default as IsStringWithLengthBiggerThan } from './IsStringWithLengthBiggerThan.js';
 export { default as IsStringWithLengthBiggerOrEqualTo } from './IsStringWithLengthBiggerOrEqualTo.js';
