@@ -24,6 +24,7 @@ export { default as IsArrayWithLengthLesserOrEqualTo } from './IsArrayWithLength
 export { default as IsBoolean } from './IsBoolean.js';
 export { default as IsBooleanArray } from './IsBooleanArray.js';
 export { default as IsEmpty } from './IsEmpty.js';
+export { default as IsFloat } from './IsFloat.js';
 export { default as IsFunction } from './IsFunction.js';
 export { default as IsFunctionArray } from './IsFunctionArray.js';
 export { default as IsInteger } from './IsInteger.js';
