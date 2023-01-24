@@ -3,14 +3,17 @@
  * @description This file is a collection of
  * all the functionalities of the package.
  */
-//import validator from '@euriklis/validator';
+import validator from '@euriklis/validator';
 export { default as IsArray } from './IsArray.js';
+export { default as IsArrayOfArraysWithEqualSize } from './IsArrayOfArraysWithEqualSize.js';
 export { default as IsArrayOfNegativeIntegers } from './IsArrayOfNegativeIntegers.js';
-export { default as IsArrayOfNumberArrays } from './IsArrayOfNumberArrays.js';
-export { default as IsArrayOfPositiveIntegers } from './IsArrayOfPositiveIntegers.js';
 export { default as IsArrayOfNegativeNumbers } from './IsArrayOfNegativeNumbers.js';
+export { default as IsArrayOfNumberArrays } from './IsArrayOfNumberArrays.js';
+export { default as IsArrayOfNumberArraysWithEqualSize } from './IsArrayOfNumberArraysWithEqualSize.js';
+export { default as IsArrayOfPositiveIntegers } from './IsArrayOfPositiveIntegers.js';
 export { default as IsArrayOfPositiveNumbers } from './IsArrayOfPositiveNumbers.js';
 export { default as IsArrayOfStringArrays } from './IsArrayOfStringArrays.js';
+export { default as IsArrayOfStringArraysWithEqualSize } from './IsArrayOfStringArraysWithEqualSize.js';
 export { default as IsArrayWithLength } from './IsArrayWithLength.js';
 export { default as IsArrayWithLengthBiggerThan } from './IsArrayWithLengthBiggerThan.js';
 export { default as IsArrayWithLengthBiggerOrEqualTo } from './IsArrayWithLengthBiggerOrEqualTo.js';
