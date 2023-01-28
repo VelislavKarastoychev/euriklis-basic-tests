@@ -6,5 +6,8 @@ import validator from "@euriklis/validator";
  * @param {number} length 
  * @returns {boolean}
  */
-const IsArrayWithLengthBiggerThan = (array, length) => new validator(array).isArray.And.has_length(length).answer;
+const IsArrayWithLengthBiggerThan = (array, length) => new validator(array)
+    .isArray
+    .And
+    .has_length_bigger_than(length).answer;
 export default IsArrayWithLengthBiggerThan;
