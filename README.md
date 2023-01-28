@@ -28,6 +28,12 @@ if (conditions.IsArray(arr)) {
 
 ```
 
+
+# Documentation
+
+A list of all testing methods of the package with short explanation how to use them may be found [here](./DOCUMENTATION.md). 
+
+
 # Bugs
 
 This package is created only for personal usage of the author in its packages. However if you find some error you may write in the issues section for the given problem.
